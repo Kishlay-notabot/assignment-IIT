@@ -1,4 +1,4 @@
-# internship-assignment-IIT
+# assignment-IIT
 
 ### Steps to run the server code:
 * Install Tesseract-OCR:
@@ -6,7 +6,7 @@
     - Windows: Follow the installation steps provided in the documentation [here](https://tesseract-ocr.github.io/tessdoc/Installation.html)
 * Setup a python virtual environment (optional)
 * Clone the repository with `git clone https://github.com/Kishlay-notabot/assignment-IIT`  
-* Change directory to the repo folder `cd internship-assignment-IIT`
+* Change directory to the repo folder `cd -assignment-IIT`
 * install dependencies for running server by `pip install -r requirements.txt`
 * Start the server with `python server.py`
 * Run the test with `python test.py`
