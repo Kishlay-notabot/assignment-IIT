@@ -35,7 +35,7 @@ There are 3 status codes which signal the success/failure of an operation:
 # Running with Docker
 Prerequisites:
 
-Docker and Docker Compose installed on your system
+Docker and Docker Compose installed on your system  
 Git installed to clone the repository
 
 Steps to run with Docker:
