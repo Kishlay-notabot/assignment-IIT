@@ -1,3 +1,5 @@
+# code taken from the testing repo provided in the Google Doc
+
 from base64 import b64encode
 from os.path import dirname, join as path_join
 from json import dump as json_dump
