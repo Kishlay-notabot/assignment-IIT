@@ -5,7 +5,7 @@
     - Linux: `sudo apt install tesseract-ocr`
     - Windows: Follow the installation steps provided in the documentation [here](https://tesseract-ocr.github.io/tessdoc/Installation.html)
 * Setup a python virtual environment (optional)
-* Clone the repository with `git clone https://github.com/Kishlay-notabot/internship-assignment-IIT`  
+* Clone the repository with `git clone https://github.com/Kishlay-notabot/assignment-IIT`  
 * Change directory to the repo folder `cd internship-assignment-IIT`
 * install dependencies for running server by `pip install -r requirements.txt`
 * Start the server with `python server.py`
