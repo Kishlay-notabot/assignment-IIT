@@ -30,3 +30,23 @@ There are 3 status codes which signal the success/failure of an operation:
 * 200: Successful operation
 * 400: Bad request (invalid input)
 * 500: Server error
+
+
+# Running with Docker
+Prerequisites:
+
+Docker and Docker Compose installed on your system
+Git installed to clone the repository
+
+Steps to run with Docker:
+
+* Clone the repository:
+* `git clone https://github.com/xxxx-xxxx/assignment-IIT`  
+`cd assignment-IIT`
+
+* Build and start the container: `docker-compose up --build`    
+
+
+The server will be available at http://localhost:5000  
+* To stop the container:  
+`docker-compose down`
