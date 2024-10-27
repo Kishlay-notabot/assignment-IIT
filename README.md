@@ -41,7 +41,7 @@ Git installed to clone the repository
 Steps to run with Docker:
 
 * Clone the repository:
-* `git clone https://github.com/xxxx-xxxx/assignment-IIT`  
+* `git clone https://github.com/kishlay-notabot/assignment-IIT`  
 `cd assignment-IIT`
 
 * Build and start the container: `docker-compose up --build`    
